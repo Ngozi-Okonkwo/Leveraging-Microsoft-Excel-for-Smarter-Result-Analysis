@@ -4,6 +4,8 @@ Teachers handle more than just numbers as every grade carries a story of effort,
 Instead of manually collating results, Microsoft Excel can transform raw scores into meaningful insights with ease. 
 This worksheet showcases how simple formulas and conditional formatting can streamline result analysis.
 
+![IFStatement](IFstatement.png)
+
 ## 🔍 Key Features in This Worksheet
 
 ### ✅ **Automated Calculations**
