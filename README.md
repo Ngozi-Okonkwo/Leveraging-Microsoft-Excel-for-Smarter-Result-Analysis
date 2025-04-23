@@ -25,7 +25,7 @@ Using `=IF()`, this worksheet assigns **standardized grades** based on score ran
 - `D7-E8 (Pass)` for 45-54%
 - `F9 (Fail)` for below 40%
 
-No more subjective remarks—grading is **accurate and fair** across all students.
+No more subjective remarks. Grading is **accurate and fair** across all students
 
 ### 📊 **Data Organization & Trend Spotting**
 Sorting and filtering allow teachers to:
@@ -44,7 +44,7 @@ Excel saves time, reduces errors, and makes result analysis smarter. For teacher
 Do not hesitate to reach me on the contact details available on my profile
 
 
-##Thank You
+## Thank You
 
 #EdTech #MicrosoftExcel #TeacherTools #DataDrivenEducation
 
