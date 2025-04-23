@@ -1,5 +1,4 @@
-# 📊 From Grades to Insights: 
-Leveraging Excel for Smarter Result Analysis
+# 📊 From Grades to Insights: Leveraging Excel for Smarter Result Analysis
 
 Teachers handle more than just numbers as every grade carries a story of effort, struggle, and achievement. 
 Instead of manually collating results, Microsoft Excel can transform raw scores into meaningful insights with ease. 
