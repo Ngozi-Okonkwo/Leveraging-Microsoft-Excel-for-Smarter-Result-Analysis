@@ -1,4 +1,4 @@
-# 📊 From Grades to Insights: Leveraging Excel for Smarter Result Analysis
+# 📊 From grades to insights: Leveraging Excel for smarter result analysis
 
 Teachers handle more than just numbers as every grade carries a story of effort, struggle, and achievement. 
 Instead of manually collating results, Microsoft Excel can transform raw scores into meaningful insights with ease. 
@@ -6,12 +6,12 @@ This worksheet showcases how simple formulas and conditional formatting can stre
 
 ![IFStatement](IFstatement.png)
 
-## 🔍 Key Features in This Worksheet
+## 🔍 Key Features in this worksheet
 
-### ✅ **Automated Calculations**
+### ✅ **Automated calculations**
 With formulas like `=SUM()` and `=AVERAGE()`, calculating total and average scores becomes effortless. No more manual tallying or second-guessing results
 
-### 🎨 **Instant Performance Insights**
+### 🎨 **Instant performance insights**
 Conditional formatting highlights student performance:  
 - 🟩 Green for top scorers  
 - 🟨 Yellow for mid-range achievers  
@@ -19,7 +19,7 @@ Conditional formatting highlights student performance:
 
 A single glance now provides a deeper understanding of performance trends.
 
-### 🏅 **Fair, Consistent Grading with IF Statements**
+### 🏅 **Fair, consistent grading with IF Statements**
 Using `=IF()`, this worksheet assigns **standardized grades** based on score ranges:
 - `A1 (Excellent)` for 75-100%
 - `B2-B3 (Very Good/Good)` for 65-74%
@@ -29,13 +29,13 @@ Using `=IF()`, this worksheet assigns **standardized grades** based on score ran
 
 No more subjective remarks. Grading is **accurate and fair** across all students
 
-### 📊 **Data Organization & Trend Spotting**
+### 📊 **Data organization & trend spotting**
 Sorting and filtering allow teachers to:
 - **Identify top-performing students** (e.g., Chukwuemeka and Olamide's consistent excellence)  
 - **Pinpoint students needing subject-specific support** (e.g., Aisha’s struggles in History)  
 - **Analyze grade distribution** for broader educational strategies  
 
-## 🚀 **The Impact of Digital Tools for Teachers**
+## 🚀 **The impact of digital tools for teachers**
 This Excel worksheet isn't just about numbers. It helps educators **see beyond the grades**, **focus on individual student progress**, and **make data-driven decisions**.
 
 Excel saves time, reduces errors, and makes result analysis smarter. For teachers, that means more time spent **where it matters most—helping students succeed**. 🎯
